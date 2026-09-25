@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class hello {
     public static void main(String[] args) {
     System.out.println("Hello, Jenkins! Build successful, 2022wa86492");
     }
